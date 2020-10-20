@@ -1,0 +1,122 @@
+[02-Aug-2020 13:38:11 UTC] PHP Notice:  Undefined index: website in C:\AppServ\www\Python\Wormy.php on line 50
+[02-Aug-2020 16:12:12 UTC] PHP Notice:  Undefined index: website in C:\AppServ\www\Python\Wormy.php on line 50
+[02-Aug-2020 16:57:31 UTC] PHP Notice:  Undefined index: website in C:\AppServ\www\Python\Wormy.php on line 50
+[02-Aug-2020 16:57:33 UTC] PHP Notice:  Undefined index: website in C:\AppServ\www\Python\Wormy.php on line 50
+[02-Aug-2020 16:58:17 UTC] PHP Notice:  Undefined index: website in C:\AppServ\www\Python\Wormy.php on line 50
+[02-Aug-2020 16:58:25 UTC] PHP Notice:  Undefined index: website in C:\AppServ\www\Python\Wormy.php on line 50
+[02-Aug-2020 16:59:47 UTC] PHP Notice:  Undefined index: website in C:\AppServ\www\Python\Wormy.php on line 50
+[02-Aug-2020 17:01:02 UTC] PHP Notice:  Undefined index: website in C:\AppServ\www\Python\Wormy.php on line 50
+[02-Aug-2020 17:01:13 UTC] PHP Notice:  Undefined index: website in C:\AppServ\www\Python\Wormy.php on line 50
+[02-Aug-2020 17:01:43 UTC] PHP Notice:  Undefined index: website in C:\AppServ\www\Python\Wormy.php on line 50
+[02-Aug-2020 17:01:58 UTC] PHP Notice:  Undefined index: website in C:\AppServ\www\Python\Wormy.php on line 50
+[02-Aug-2020 17:02:57 UTC] PHP Notice:  Undefined index: website in C:\AppServ\www\Python\Wormy.php on line 50
+[02-Aug-2020 17:03:04 UTC] PHP Notice:  Undefined index: website in C:\AppServ\www\Python\Wormy.php on line 50
+[07-Aug-2020 13:17:40 UTC] PHP Notice:  Undefined index: website in C:\AppServ\www\Python\Wormy.php on line 50
+[09-Aug-2020 13:04:36 UTC] PHP Fatal error:  Uncaught Error: Class 'sqli' not found in C:\AppServ\www\Python\Wormy.php:39
+Stack trace:
+#0 {main}
+  thrown in C:\AppServ\www\Python\Wormy.php on line 39
+[09-Aug-2020 13:05:29 UTC] PHP Fatal error:  Uncaught Error: Class 'sqli' not found in C:\AppServ\www\Python\Wormy.php:39
+Stack trace:
+#0 {main}
+  thrown in C:\AppServ\www\Python\Wormy.php on line 39
+[09-Aug-2020 13:07:21 UTC] PHP Fatal error:  Uncaught Error: Class 'sqli' not found in C:\AppServ\www\Python\Wormy.php:39
+Stack trace:
+#0 {main}
+  thrown in C:\AppServ\www\Python\Wormy.php on line 39
+[09-Aug-2020 13:07:24 UTC] PHP Fatal error:  Uncaught Error: Class 'sqli' not found in C:\AppServ\www\Python\Wormy.php:39
+Stack trace:
+#0 {main}
+  thrown in C:\AppServ\www\Python\Wormy.php on line 39
+[09-Aug-2020 13:08:16 UTC] PHP Fatal error:  Uncaught Error: Class 'sqli' not found in C:\AppServ\www\Python\Wormy.php:39
+Stack trace:
+#0 {main}
+  thrown in C:\AppServ\www\Python\Wormy.php on line 39
+[09-Aug-2020 13:08:16 UTC] PHP Stack trace:
+[09-Aug-2020 13:08:16 UTC] PHP   1. {main}() C:\AppServ\www\Python\Wormy.php:0
+[09-Aug-2020 14:20:41 UTC] PHP Notice:  Undefined index: devyes in C:\AppServ\www\Python\Wormy.php on line 74
+[09-Aug-2020 14:20:41 UTC] PHP Stack trace:
+[09-Aug-2020 14:20:41 UTC] PHP   1. {main}() C:\AppServ\www\Python\Wormy.php:0
+[09-Aug-2020 14:21:36 UTC] PHP Notice:  Undefined index: devyes in C:\AppServ\www\Python\Wormy.php on line 74
+[09-Aug-2020 14:21:36 UTC] PHP Stack trace:
+[09-Aug-2020 14:21:36 UTC] PHP   1. {main}() C:\AppServ\www\Python\Wormy.php:0
+[09-Aug-2020 14:21:45 UTC] PHP Notice:  Undefined index: devyes in C:\AppServ\www\Python\Wormy.php on line 74
+[09-Aug-2020 14:21:45 UTC] PHP Stack trace:
+[09-Aug-2020 14:21:45 UTC] PHP   1. {main}() C:\AppServ\www\Python\Wormy.php:0
+[09-Aug-2020 14:26:24 UTC] PHP Notice:  Undefined index: devyes in C:\AppServ\www\Python\Wormy.php on line 74
+[09-Aug-2020 14:26:24 UTC] PHP Stack trace:
+[09-Aug-2020 14:26:24 UTC] PHP   1. {main}() C:\AppServ\www\Python\Wormy.php:0
+[09-Aug-2020 14:30:29 UTC] PHP Notice:  Undefined index: devyes in C:\AppServ\www\Python\Wormy.php on line 74
+[09-Aug-2020 14:30:29 UTC] PHP Stack trace:
+[09-Aug-2020 14:30:29 UTC] PHP   1. {main}() C:\AppServ\www\Python\Wormy.php:0
+[09-Aug-2020 14:31:39 UTC] PHP Notice:  Undefined index: devyes in C:\AppServ\www\Python\Wormy.php on line 66
+[09-Aug-2020 14:31:39 UTC] PHP Stack trace:
+[09-Aug-2020 14:31:39 UTC] PHP   1. {main}() C:\AppServ\www\Python\Wormy.php:0
+[09-Aug-2020 15:09:46 UTC] PHP Notice:  Undefined variable: comment in C:\AppServ\www\Python\Pong.php on line 93
+[09-Aug-2020 15:09:46 UTC] PHP Stack trace:
+[09-Aug-2020 15:09:46 UTC] PHP   1. {main}() C:\AppServ\www\Python\Pong.php:0
+[09-Aug-2020 18:52:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function test_input() in C:\AppServ\www\Python\Wormy.php:52
+Stack trace:
+#0 {main}
+  thrown in C:\AppServ\www\Python\Wormy.php on line 52
+[09-Aug-2020 18:53:38 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\AppServ\www\Python\Wormy.php on line 95
+[09-Aug-2020 19:16:13 UTC] PHP Notice:  Undefined variable: sql in C:\AppServ\www\Python\Wormy.php on line 89
+[09-Aug-2020 19:16:13 UTC] PHP Stack trace:
+[09-Aug-2020 19:16:13 UTC] PHP   1. {main}() C:\AppServ\www\Python\Wormy.php:0
+[09-Aug-2020 19:16:13 UTC] PHP Warning:  mysqli::query(): Empty query in C:\AppServ\www\Python\Wormy.php on line 89
+[09-Aug-2020 19:16:13 UTC] PHP Stack trace:
+[09-Aug-2020 19:16:13 UTC] PHP   1. {main}() C:\AppServ\www\Python\Wormy.php:0
+[09-Aug-2020 19:16:13 UTC] PHP   2. mysqli->query() C:\AppServ\www\Python\Wormy.php:89
+[09-Aug-2020 19:16:13 UTC] PHP Notice:  Undefined variable: sql in C:\AppServ\www\Python\Wormy.php on line 92
+[09-Aug-2020 19:16:13 UTC] PHP Stack trace:
+[09-Aug-2020 19:16:13 UTC] PHP   1. {main}() C:\AppServ\www\Python\Wormy.php:0
+[09-Aug-2020 19:16:15 UTC] PHP Notice:  Undefined variable: sql in C:\AppServ\www\Python\Wormy.php on line 89
+[09-Aug-2020 19:16:15 UTC] PHP Stack trace:
+[09-Aug-2020 19:16:15 UTC] PHP   1. {main}() C:\AppServ\www\Python\Wormy.php:0
+[09-Aug-2020 19:16:15 UTC] PHP Warning:  mysqli::query(): Empty query in C:\AppServ\www\Python\Wormy.php on line 89
+[09-Aug-2020 19:16:15 UTC] PHP Stack trace:
+[09-Aug-2020 19:16:15 UTC] PHP   1. {main}() C:\AppServ\www\Python\Wormy.php:0
+[09-Aug-2020 19:16:15 UTC] PHP   2. mysqli->query() C:\AppServ\www\Python\Wormy.php:89
+[09-Aug-2020 19:16:15 UTC] PHP Notice:  Undefined variable: sql in C:\AppServ\www\Python\Wormy.php on line 92
+[09-Aug-2020 19:16:15 UTC] PHP Stack trace:
+[09-Aug-2020 19:16:15 UTC] PHP   1. {main}() C:\AppServ\www\Python\Wormy.php:0
+[09-Aug-2020 19:16:22 UTC] PHP Notice:  Undefined variable: sql in C:\AppServ\www\Python\Wormy.php on line 89
+[09-Aug-2020 19:16:22 UTC] PHP Stack trace:
+[09-Aug-2020 19:16:22 UTC] PHP   1. {main}() C:\AppServ\www\Python\Wormy.php:0
+[09-Aug-2020 19:16:22 UTC] PHP Warning:  mysqli::query(): Empty query in C:\AppServ\www\Python\Wormy.php on line 89
+[09-Aug-2020 19:16:22 UTC] PHP Stack trace:
+[09-Aug-2020 19:16:22 UTC] PHP   1. {main}() C:\AppServ\www\Python\Wormy.php:0
+[09-Aug-2020 19:16:22 UTC] PHP   2. mysqli->query() C:\AppServ\www\Python\Wormy.php:89
+[09-Aug-2020 19:16:22 UTC] PHP Notice:  Undefined variable: sql in C:\AppServ\www\Python\Wormy.php on line 92
+[09-Aug-2020 19:16:22 UTC] PHP Stack trace:
+[09-Aug-2020 19:16:22 UTC] PHP   1. {main}() C:\AppServ\www\Python\Wormy.php:0
+[09-Aug-2020 19:17:43 UTC] PHP Notice:  Undefined variable: sql in C:\AppServ\www\Python\Wormy.php on line 94
+[09-Aug-2020 19:17:43 UTC] PHP Stack trace:
+[09-Aug-2020 19:17:43 UTC] PHP   1. {main}() C:\AppServ\www\Python\Wormy.php:0
+[09-Aug-2020 19:17:43 UTC] PHP Warning:  mysqli::query(): Empty query in C:\AppServ\www\Python\Wormy.php on line 94
+[09-Aug-2020 19:17:43 UTC] PHP Stack trace:
+[09-Aug-2020 19:17:43 UTC] PHP   1. {main}() C:\AppServ\www\Python\Wormy.php:0
+[09-Aug-2020 19:17:43 UTC] PHP   2. mysqli->query() C:\AppServ\www\Python\Wormy.php:94
+[09-Aug-2020 19:17:43 UTC] PHP Notice:  Undefined variable: sql in C:\AppServ\www\Python\Wormy.php on line 97
+[09-Aug-2020 19:17:43 UTC] PHP Stack trace:
+[09-Aug-2020 19:17:43 UTC] PHP   1. {main}() C:\AppServ\www\Python\Wormy.php:0
+[09-Aug-2020 19:17:44 UTC] PHP Notice:  Undefined variable: sql in C:\AppServ\www\Python\Wormy.php on line 94
+[09-Aug-2020 19:17:44 UTC] PHP Stack trace:
+[09-Aug-2020 19:17:44 UTC] PHP   1. {main}() C:\AppServ\www\Python\Wormy.php:0
+[09-Aug-2020 19:17:44 UTC] PHP Warning:  mysqli::query(): Empty query in C:\AppServ\www\Python\Wormy.php on line 94
+[09-Aug-2020 19:17:44 UTC] PHP Stack trace:
+[09-Aug-2020 19:17:44 UTC] PHP   1. {main}() C:\AppServ\www\Python\Wormy.php:0
+[09-Aug-2020 19:17:44 UTC] PHP   2. mysqli->query() C:\AppServ\www\Python\Wormy.php:94
+[09-Aug-2020 19:17:44 UTC] PHP Notice:  Undefined variable: sql in C:\AppServ\www\Python\Wormy.php on line 97
+[09-Aug-2020 19:17:44 UTC] PHP Stack trace:
+[09-Aug-2020 19:17:44 UTC] PHP   1. {main}() C:\AppServ\www\Python\Wormy.php:0
+[09-Aug-2020 19:17:47 UTC] PHP Notice:  Undefined variable: sql in C:\AppServ\www\Python\Wormy.php on line 94
+[09-Aug-2020 19:17:47 UTC] PHP Stack trace:
+[09-Aug-2020 19:17:47 UTC] PHP   1. {main}() C:\AppServ\www\Python\Wormy.php:0
+[09-Aug-2020 19:17:47 UTC] PHP Warning:  mysqli::query(): Empty query in C:\AppServ\www\Python\Wormy.php on line 94
+[09-Aug-2020 19:17:47 UTC] PHP Stack trace:
+[09-Aug-2020 19:17:47 UTC] PHP   1. {main}() C:\AppServ\www\Python\Wormy.php:0
+[09-Aug-2020 19:17:47 UTC] PHP   2. mysqli->query() C:\AppServ\www\Python\Wormy.php:94
+[09-Aug-2020 19:17:47 UTC] PHP Notice:  Undefined variable: sql in C:\AppServ\www\Python\Wormy.php on line 97
+[09-Aug-2020 19:17:47 UTC] PHP Stack trace:
+[09-Aug-2020 19:17:47 UTC] PHP   1. {main}() C:\AppServ\www\Python\Wormy.php:0

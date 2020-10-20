@@ -1,0 +1,229 @@
+.centerelement {
+  margin:auto;
+  width: 50%;
+  border: 3px grey;
+  padding: 3px;
+}
+
+.centertext {
+  text-align: center;
+  border: 3px black;
+}
+
+/* Center vertically using padding */
+
+.centervertical {
+  padding: 70px 0;
+  border: 1px black;
+}
+
+/* Center text vertically and horizontally */
+
+.centerverticaltext {
+    padding: 13px 0;
+    border: 3px solid grey;
+    width: 50%;
+    text-align: center;    
+}
+
+/* Center vertically using line-height */
+
+.centerlineheight  {
+  line-height: 200px;
+  height: 200px;
+  border: 3px black;
+  text-align: center;
+}
+
+/* If  the text has multiple lines, add the following */
+
+.centerlineheight p {
+  line-height: 1.5;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.center-positiontrans {
+  height: 200px;
+  position: relative;
+  border: 3px black;
+}
+
+.center-positiontrans p {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.center-flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  border: 3px solid green;
+}
+
+.top-left {
+    top: 10%;
+    left: 0%;
+}
+
+.top-right {
+    position: absolute;
+    top: 13px;
+    right: 27%;
+}
+
+img {
+  display: block;
+/*  margin-left: auto;*/
+  margin-right: auto;
+  width: 5%;
+}
+
+.new-align {
+    position: absolute;
+    top: 265.85px;
+    left: 53.5%;
+}
+.new-align2{
+    position: absolute;
+    top: 14.85%;
+    left: 25.3%;
+}
+.new-align3 {
+    position: absolute;
+    top: 264.95px;
+    left: 1039px;
+}
+
+.new-align4 {
+    position: absolute;
+    top: 298.95px;
+    left: 1013px;
+}
+.new-align5 {
+    position: absolute;
+    top: 300px;
+    left: 55.4%;
+}
+.new-align6 {
+    position: absolute;
+    top: 401px;
+    left: 53.7%;
+}
+.new-align7 {
+    position: absolute;
+    top: 400px;
+    left: 54.58%;
+}
+.new-alignborder {
+    line-height: 0px;
+    height: 110px;
+    width: 23%;
+    border: 3px solid grey;
+    text-align: center;
+}
+.new-alignborder2 {
+    line-height: 0px;
+    height: 106px;
+    width: 23%;
+    border: 3px solid grey;
+    text-align: center;
+}
+.new-alignborder3 {
+    line-height: 17px;
+    height: 210px;
+    width: 23%;
+    border: 3px solid grey;
+    text-align: center;
+}
+.rightabsolutetop {
+  position: absolute;
+  right: 480px;
+  top: 1%;
+  width: 100px;
+  border: 3px black;
+  padding: 3px;
+}
+
+.rightabsolute2 {
+  position: absolute;
+  right: 0px;
+  width: 200px;
+  border: 3px black;
+  padding: 3px;
+}
+
+.rightabsolute3 {
+  position: absolute;
+  right: 0px;
+  width: 300px;
+  border: 3px black;
+  padding: 3px;
+}
+
+.leftabsolute2 {
+  position: absolute;
+  left: 0px;
+  width: 200px;
+  border: 3px black;
+  padding: 3px;
+}
+
+.leftabsolute3 {
+  position: absolute;
+  left: 0px;
+  width: 300px;
+  border: 3px black;
+  padding: 3px;
+}
+
+.rightfloat {
+  float: right;
+  width: 100px;
+  border: 3px black;
+  padding: 3px;
+}
+
+.rightfloat2 {
+  float: right;
+  width: 200px;
+  border: 3px black;
+  padding: 3px;
+}
+
+.rightfloat3 {
+  float: right;
+  width: 300px;
+  border: 3px black;
+  padding: 3px;
+}
+
+.leftfloat {
+  float: left;
+  width: 100px;
+  border: 3px black;
+  padding: 3px;
+}
+
+.leftfloat2 {
+  float: left;
+  width: 200px;
+  border: 3px black;
+  padding: 3px;
+}
+
+.leftfloat3 {
+  float: left;
+  width: 300px;
+  border: 3px black;
+  padding: 3px;
+}
+
+.clearfix {
+  overflow: auto;
+}
+

@@ -1,0 +1,202 @@
+[04-Aug-2020 18:15:23 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in C:\AppServ\www\forbidden\register.php on line 20
+[04-Aug-2020 18:15:23 UTC] PHP Warning:  Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) in C:\AppServ\www\forbidden\register.php on line 22
+[04-Aug-2020 18:15:23 UTC] PHP Warning:  Use of undefined constant connect_error - assumed 'connect_error' (this will throw an Error in a future version of PHP) in C:\AppServ\www\forbidden\register.php on line 22
+[04-Aug-2020 18:15:23 UTC] PHP Warning:  log() expects parameter 1 to be float, string given in C:\AppServ\www\forbidden\register.php on line 22
+[07-Aug-2020 12:19:11 UTC] PHP Notice:  Undefined variable: nameErr in C:\AppServ\www\forbidden\register.php on line 60
+[07-Aug-2020 12:19:11 UTC] PHP Notice:  Undefined variable: nameErr2 in C:\AppServ\www\forbidden\register.php on line 65
+[07-Aug-2020 12:19:11 UTC] PHP Notice:  Undefined variable: emailErr in C:\AppServ\www\forbidden\register.php on line 70
+[07-Aug-2020 12:19:11 UTC] PHP Notice:  Undefined variable: passErr in C:\AppServ\www\forbidden\register.php on line 75
+[07-Aug-2020 12:19:11 UTC] PHP Notice:  Undefined variable: passErr in C:\AppServ\www\forbidden\register.php on line 80
+[07-Aug-2020 14:00:27 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\AppServ\www\forbidden\register.php on line 48
+[07-Aug-2020 14:00:28 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\AppServ\www\forbidden\register.php on line 48
+[07-Aug-2020 14:04:10 UTC] PHP Parse error:  syntax error, unexpected '$lName' (T_VARIABLE), expecting ')' in C:\AppServ\www\forbidden\register.php on line 53
+[07-Aug-2020 14:35:04 UTC] PHP Notice:  Undefined variable: pwd in C:\AppServ\www\forbidden\register.php on line 44
+[07-Aug-2020 16:21:50 UTC] PHP Notice:  Undefined index: psw in C:\AppServ\www\forbidden\register.php on line 73
+[07-Aug-2020 16:21:50 UTC] PHP Stack trace:
+[07-Aug-2020 16:21:50 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[07-Aug-2020 16:22:52 UTC] PHP Notice:  Undefined index: psw in C:\AppServ\www\forbidden\register.php on line 73
+[07-Aug-2020 16:22:52 UTC] PHP Stack trace:
+[07-Aug-2020 16:22:52 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[07-Aug-2020 22:20:06 UTC] PHP Notice:  Undefined variable: unameErr in C:\AppServ\www\forbidden\register.php on line 143
+[07-Aug-2020 22:20:06 UTC] PHP Stack trace:
+[07-Aug-2020 22:20:06 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[07-Aug-2020 22:21:31 UTC] PHP Warning:  preg_match() expects at least 2 parameters, 1 given in C:\AppServ\www\forbidden\register.php on line 62
+[07-Aug-2020 22:21:31 UTC] PHP Stack trace:
+[07-Aug-2020 22:21:31 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[07-Aug-2020 22:21:31 UTC] PHP   2. preg_match() C:\AppServ\www\forbidden\register.php:62
+[07-Aug-2020 22:22:36 UTC] PHP Warning:  preg_match() expects at least 2 parameters, 1 given in C:\AppServ\www\forbidden\register.php on line 62
+[07-Aug-2020 22:22:36 UTC] PHP Stack trace:
+[07-Aug-2020 22:22:36 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[07-Aug-2020 22:22:36 UTC] PHP   2. preg_match() C:\AppServ\www\forbidden\register.php:62
+[07-Aug-2020 22:22:53 UTC] PHP Warning:  preg_match() expects at least 2 parameters, 1 given in C:\AppServ\www\forbidden\register.php on line 62
+[07-Aug-2020 22:22:53 UTC] PHP Stack trace:
+[07-Aug-2020 22:22:53 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[07-Aug-2020 22:22:53 UTC] PHP   2. preg_match(*uninitialized*) C:\AppServ\www\forbidden\register.php:62
+[07-Aug-2020 22:23:27 UTC] PHP Notice:  Undefined variable: unameErr in C:\AppServ\www\forbidden\register.php on line 143
+[07-Aug-2020 22:23:27 UTC] PHP Stack trace:
+[07-Aug-2020 22:23:27 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[07-Aug-2020 22:23:43 UTC] PHP Notice:  Undefined variable: unameErr in C:\AppServ\www\forbidden\register.php on line 143
+[07-Aug-2020 22:23:43 UTC] PHP Stack trace:
+[07-Aug-2020 22:23:43 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[07-Aug-2020 22:37:29 UTC] PHP Notice:  Undefined index: /acton-page.php in C:\AppServ\www\forbidden\register.php on line 47
+[07-Aug-2020 22:37:29 UTC] PHP Stack trace:
+[07-Aug-2020 22:37:29 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[07-Aug-2020 22:56:06 UTC] PHP Notice:  Undefined index: acton-page.php in C:\AppServ\www\forbidden\register.php on line 47
+[07-Aug-2020 22:56:06 UTC] PHP Stack trace:
+[07-Aug-2020 22:56:06 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[07-Aug-2020 22:56:06 UTC] PHP Notice:  Undefined variable: nameErr in C:\AppServ\www\forbidden\register.php on line 51
+[07-Aug-2020 22:56:06 UTC] PHP Stack trace:
+[07-Aug-2020 22:56:06 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[07-Aug-2020 22:56:06 UTC] PHP Notice:  Undefined variable: nameErr2 in C:\AppServ\www\forbidden\register.php on line 56
+[07-Aug-2020 22:56:06 UTC] PHP Stack trace:
+[07-Aug-2020 22:56:06 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[07-Aug-2020 22:56:06 UTC] PHP Notice:  Undefined variable: emailErr in C:\AppServ\www\forbidden\register.php on line 61
+[07-Aug-2020 22:56:06 UTC] PHP Stack trace:
+[07-Aug-2020 22:56:06 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[07-Aug-2020 22:56:06 UTC] PHP Notice:  Undefined variable: unameErr in C:\AppServ\www\forbidden\register.php on line 66
+[07-Aug-2020 22:56:06 UTC] PHP Stack trace:
+[07-Aug-2020 22:56:06 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[07-Aug-2020 22:56:06 UTC] PHP Notice:  Undefined variable: passErr in C:\AppServ\www\forbidden\register.php on line 71
+[07-Aug-2020 22:56:06 UTC] PHP Stack trace:
+[07-Aug-2020 22:56:06 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[07-Aug-2020 22:56:06 UTC] PHP Notice:  Undefined variable: cpassErr in C:\AppServ\www\forbidden\register.php on line 76
+[07-Aug-2020 22:56:06 UTC] PHP Stack trace:
+[07-Aug-2020 22:56:06 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[07-Aug-2020 22:56:12 UTC] PHP Notice:  Undefined index: acton-page.php in C:\AppServ\www\forbidden\register.php on line 47
+[07-Aug-2020 22:56:12 UTC] PHP Stack trace:
+[07-Aug-2020 22:56:12 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[07-Aug-2020 22:56:12 UTC] PHP Notice:  Undefined variable: nameErr in C:\AppServ\www\forbidden\register.php on line 51
+[07-Aug-2020 22:56:12 UTC] PHP Stack trace:
+[07-Aug-2020 22:56:12 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[07-Aug-2020 22:56:12 UTC] PHP Notice:  Undefined variable: nameErr2 in C:\AppServ\www\forbidden\register.php on line 56
+[07-Aug-2020 22:56:12 UTC] PHP Stack trace:
+[07-Aug-2020 22:56:12 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[07-Aug-2020 22:56:12 UTC] PHP Notice:  Undefined variable: emailErr in C:\AppServ\www\forbidden\register.php on line 61
+[07-Aug-2020 22:56:12 UTC] PHP Stack trace:
+[07-Aug-2020 22:56:12 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[07-Aug-2020 22:56:12 UTC] PHP Notice:  Undefined variable: unameErr in C:\AppServ\www\forbidden\register.php on line 66
+[07-Aug-2020 22:56:12 UTC] PHP Stack trace:
+[07-Aug-2020 22:56:12 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[07-Aug-2020 22:56:12 UTC] PHP Notice:  Undefined variable: passErr in C:\AppServ\www\forbidden\register.php on line 71
+[07-Aug-2020 22:56:12 UTC] PHP Stack trace:
+[07-Aug-2020 22:56:12 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[07-Aug-2020 22:56:12 UTC] PHP Notice:  Undefined variable: cpassErr in C:\AppServ\www\forbidden\register.php on line 76
+[07-Aug-2020 22:56:12 UTC] PHP Stack trace:
+[07-Aug-2020 22:56:12 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[07-Aug-2020 22:56:13 UTC] PHP Notice:  Undefined index: acton-page.php in C:\AppServ\www\forbidden\register.php on line 47
+[07-Aug-2020 22:56:13 UTC] PHP Stack trace:
+[07-Aug-2020 22:56:13 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[07-Aug-2020 22:56:13 UTC] PHP Notice:  Undefined variable: nameErr in C:\AppServ\www\forbidden\register.php on line 51
+[07-Aug-2020 22:56:13 UTC] PHP Stack trace:
+[07-Aug-2020 22:56:13 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[07-Aug-2020 22:56:13 UTC] PHP Notice:  Undefined variable: nameErr2 in C:\AppServ\www\forbidden\register.php on line 56
+[07-Aug-2020 22:56:13 UTC] PHP Stack trace:
+[07-Aug-2020 22:56:13 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[07-Aug-2020 22:56:13 UTC] PHP Notice:  Undefined variable: emailErr in C:\AppServ\www\forbidden\register.php on line 61
+[07-Aug-2020 22:56:13 UTC] PHP Stack trace:
+[07-Aug-2020 22:56:13 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[07-Aug-2020 22:56:13 UTC] PHP Notice:  Undefined variable: unameErr in C:\AppServ\www\forbidden\register.php on line 66
+[07-Aug-2020 22:56:13 UTC] PHP Stack trace:
+[07-Aug-2020 22:56:13 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[07-Aug-2020 22:56:13 UTC] PHP Notice:  Undefined variable: passErr in C:\AppServ\www\forbidden\register.php on line 71
+[07-Aug-2020 22:56:13 UTC] PHP Stack trace:
+[07-Aug-2020 22:56:13 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[07-Aug-2020 22:56:13 UTC] PHP Notice:  Undefined variable: cpassErr in C:\AppServ\www\forbidden\register.php on line 76
+[07-Aug-2020 22:56:13 UTC] PHP Stack trace:
+[07-Aug-2020 22:56:13 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[07-Aug-2020 22:56:23 UTC] PHP Notice:  Undefined index: acton-page.php in C:\AppServ\www\forbidden\register.php on line 126
+[07-Aug-2020 22:56:23 UTC] PHP Stack trace:
+[07-Aug-2020 22:56:23 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[07-Aug-2020 22:56:27 UTC] PHP Notice:  Undefined index: acton-page.php in C:\AppServ\www\forbidden\register.php on line 126
+[07-Aug-2020 22:56:27 UTC] PHP Stack trace:
+[07-Aug-2020 22:56:27 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[07-Aug-2020 22:56:33 UTC] PHP Notice:  Undefined index: acton-page.php in C:\AppServ\www\forbidden\register.php on line 126
+[07-Aug-2020 22:56:33 UTC] PHP Stack trace:
+[07-Aug-2020 22:56:33 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[07-Aug-2020 23:03:14 UTC] PHP Notice:  Undefined index: acton-page.php in C:\AppServ\www\forbidden\register.php on line 133
+[07-Aug-2020 23:03:14 UTC] PHP Stack trace:
+[07-Aug-2020 23:03:14 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[07-Aug-2020 23:03:15 UTC] PHP Notice:  Undefined index: acton-page.php in C:\AppServ\www\forbidden\register.php on line 133
+[07-Aug-2020 23:03:15 UTC] PHP Stack trace:
+[07-Aug-2020 23:03:15 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[07-Aug-2020 23:03:17 UTC] PHP Notice:  Undefined index: acton-page.php in C:\AppServ\www\forbidden\register.php on line 133
+[07-Aug-2020 23:03:17 UTC] PHP Stack trace:
+[07-Aug-2020 23:03:17 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[08-Aug-2020 02:27:23 UTC] PHP Notice:  Undefined index: acton-page.php in C:\AppServ\www\forbidden\register.php on line 133
+[08-Aug-2020 02:27:23 UTC] PHP Stack trace:
+[08-Aug-2020 02:27:23 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[08-Aug-2020 02:28:15 UTC] PHP Notice:  Undefined index: PHP-SELF in C:\AppServ\www\forbidden\register.php on line 133
+[08-Aug-2020 02:28:15 UTC] PHP Stack trace:
+[08-Aug-2020 02:28:15 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[08-Aug-2020 02:30:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function test_input() in C:\AppServ\www\forbidden\register.php:52
+Stack trace:
+#0 {main}
+  thrown in C:\AppServ\www\forbidden\register.php on line 52
+[08-Aug-2020 02:32:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function test_input() in C:\AppServ\www\forbidden\register.php:52
+Stack trace:
+#0 {main}
+  thrown in C:\AppServ\www\forbidden\register.php on line 52
+[08-Aug-2020 02:32:17 UTC] PHP Stack trace:
+[08-Aug-2020 02:32:17 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[08-Aug-2020 17:49:37 UTC] PHP Notice:  Undefined variable: sql in C:\AppServ\www\forbidden\register.php on line 96
+[08-Aug-2020 17:49:37 UTC] PHP Stack trace:
+[08-Aug-2020 17:49:37 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[08-Aug-2020 17:49:37 UTC] PHP Warning:  mysqli::query(): Empty query in C:\AppServ\www\forbidden\register.php on line 96
+[08-Aug-2020 17:49:37 UTC] PHP Stack trace:
+[08-Aug-2020 17:49:37 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[08-Aug-2020 17:49:37 UTC] PHP   2. mysqli->query() C:\AppServ\www\forbidden\register.php:96
+[08-Aug-2020 17:49:37 UTC] PHP Notice:  Undefined variable: sql in C:\AppServ\www\forbidden\register.php on line 99
+[08-Aug-2020 17:49:37 UTC] PHP Stack trace:
+[08-Aug-2020 17:49:37 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[08-Aug-2020 17:50:17 UTC] PHP Notice:  Undefined variable: sql in C:\AppServ\www\forbidden\register.php on line 96
+[08-Aug-2020 17:50:17 UTC] PHP Stack trace:
+[08-Aug-2020 17:50:17 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[11-Aug-2020 17:36:05 UTC] PHP Warning:  require_once(/config.php): failed to open stream: No such file or directory in C:\AppServ\www\forbidden\register.php on line 22
+[11-Aug-2020 17:36:05 UTC] PHP Stack trace:
+[11-Aug-2020 17:36:05 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[11-Aug-2020 17:36:05 UTC] PHP Fatal error:  require_once(): Failed opening required '/config.php' (include_path='.;C:\php\pear') in C:\AppServ\www\forbidden\register.php on line 22
+[11-Aug-2020 17:36:05 UTC] PHP Stack trace:
+[11-Aug-2020 17:36:05 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[11-Aug-2020 17:36:05 UTC] PHP Warning:  require_once(/config.php): failed to open stream: No such file or directory in C:\AppServ\www\forbidden\register.php on line 22
+[11-Aug-2020 17:36:05 UTC] PHP Stack trace:
+[11-Aug-2020 17:36:05 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[11-Aug-2020 17:36:05 UTC] PHP Fatal error:  require_once(): Failed opening required '/config.php' (include_path='.;C:\php\pear') in C:\AppServ\www\forbidden\register.php on line 22
+[11-Aug-2020 17:36:05 UTC] PHP Stack trace:
+[11-Aug-2020 17:36:05 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[11-Aug-2020 18:47:20 UTC] PHP Warning:  Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) in C:\AppServ\www\forbidden\config.php on line 15
+[11-Aug-2020 18:47:20 UTC] PHP Stack trace:
+[11-Aug-2020 18:47:20 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[11-Aug-2020 18:47:20 UTC] PHP   2. require_once() C:\AppServ\www\forbidden\register.php:22
+[11-Aug-2020 18:47:20 UTC] PHP Warning:  log() expects parameter 1 to be float, string given in C:\AppServ\www\forbidden\config.php on line 15
+[11-Aug-2020 18:47:20 UTC] PHP Stack trace:
+[11-Aug-2020 18:47:20 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[11-Aug-2020 18:47:20 UTC] PHP   2. require_once() C:\AppServ\www\forbidden\register.php:22
+[11-Aug-2020 18:47:20 UTC] PHP   3. log() C:\AppServ\www\forbidden\config.php:15
+[11-Aug-2020 18:47:21 UTC] PHP Warning:  Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) in C:\AppServ\www\forbidden\config.php on line 15
+[11-Aug-2020 18:47:21 UTC] PHP Stack trace:
+[11-Aug-2020 18:47:21 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[11-Aug-2020 18:47:21 UTC] PHP   2. require_once() C:\AppServ\www\forbidden\register.php:22
+[11-Aug-2020 18:47:21 UTC] PHP Warning:  log() expects parameter 1 to be float, string given in C:\AppServ\www\forbidden\config.php on line 15
+[11-Aug-2020 18:47:21 UTC] PHP Stack trace:
+[11-Aug-2020 18:47:21 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[11-Aug-2020 18:47:21 UTC] PHP   2. require_once() C:\AppServ\www\forbidden\register.php:22
+[11-Aug-2020 18:47:21 UTC] PHP   3. log() C:\AppServ\www\forbidden\config.php:15
+[11-Aug-2020 18:47:22 UTC] PHP Warning:  Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) in C:\AppServ\www\forbidden\config.php on line 15
+[11-Aug-2020 18:47:22 UTC] PHP Stack trace:
+[11-Aug-2020 18:47:22 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[11-Aug-2020 18:47:22 UTC] PHP   2. require_once() C:\AppServ\www\forbidden\register.php:22
+[11-Aug-2020 18:47:22 UTC] PHP Warning:  log() expects parameter 1 to be float, string given in C:\AppServ\www\forbidden\config.php on line 15
+[11-Aug-2020 18:47:22 UTC] PHP Stack trace:
+[11-Aug-2020 18:47:22 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[11-Aug-2020 18:47:22 UTC] PHP   2. require_once() C:\AppServ\www\forbidden\register.php:22
+[11-Aug-2020 18:47:22 UTC] PHP   3. log() C:\AppServ\www\forbidden\config.php:15
+[11-Aug-2020 18:49:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqliprepare() in C:\AppServ\www\forbidden\register.php:68
+Stack trace:
+#0 {main}
+  thrown in C:\AppServ\www\forbidden\register.php on line 68
+[11-Aug-2020 18:50:56 UTC] PHP Notice:  Undefined variable: fname in C:\AppServ\www\forbidden\register.php on line 128
+[11-Aug-2020 18:50:56 UTC] PHP Stack trace:
+[11-Aug-2020 18:50:56 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
+[11-Aug-2020 18:50:56 UTC] PHP Notice:  Undefined variable: lname in C:\AppServ\www\forbidden\register.php on line 128
+[11-Aug-2020 18:50:56 UTC] PHP Stack trace:
+[11-Aug-2020 18:50:56 UTC] PHP   1. {main}() C:\AppServ\www\forbidden\register.php:0
